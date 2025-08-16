@@ -1,7 +1,3 @@
-# Remote Access Catalog - Next.js
-
-Este projeto é uma conversão do **RemoteAccess-Catalog** original em C# para **Next.js** com **shadcn/ui**, facilitando o uso pela equipe de suporte.
-
 ## 📋 Sobre o Projeto
 
 O Remote Access Catalog é uma ferramenta que permite à equipe de suporte gerenciar conexões remotas com clientes através de diferentes plataformas:
@@ -152,23 +148,6 @@ Para fazer deploy da aplicação:
 ```bash
 npm run build
 ```
-
-2. **Deploy em plataformas como Vercel, Netlify, etc.**
-
-## 🔄 Diferenças da Versão Original
-
-### Melhorias Implementadas:
-- ✅ **Interface Web**: Acessível de qualquer navegador
-- ✅ **Responsivo**: Funciona em dispositivos móveis
-- ✅ **Moderno**: Interface limpa e intuitiva
-- ✅ **Multiplataforma**: Não depende do Windows
-- ✅ **Fácil Manutenção**: Código TypeScript bem estruturado
-
-### Funcionalidades Mantidas:
-- ✅ Todas as funcionalidades do app original
-- ✅ Banco de dados SQLite compatível
-- ✅ Suporte aos mesmos tipos de conexão
-- ✅ Sistema de contatos e histórico
 
 ## 🤝 Contribuição
 
